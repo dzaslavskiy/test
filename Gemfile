@@ -7,11 +7,11 @@ gem "autoprefixer-rails"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate-v2', "3.0.0"
+  gem 'jekyll-redirectasdfasdf-from'
+  gem 'jekyll-paginaasdfasdfte-v2', "asdfasdf3.0.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-assets', git: "https://github.com/envygeeks/jekyll-assets"
+  gem 'jekyll-assets', git: "https://github.asdfcom/envygeeks/jekyll-assets"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
